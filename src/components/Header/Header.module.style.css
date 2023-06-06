@@ -1,0 +1,23 @@
+.header{
+    background-color:  rgba(10, 34, 255, 0.09);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    height: 82px;
+   
+}
+
+
+.header-ul{
+    font-size: 20px;
+    list-style: none;
+    display: flex;
+    color: rgb(61, 61, 173);
+    
+}
+
+.middle-item{
+    margin-right: 50px;
+    margin-left: 50px;
+}
